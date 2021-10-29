@@ -1,0 +1,2 @@
+rootProject.name = "SplashActivitywithProgressBar"
+include ':app'
