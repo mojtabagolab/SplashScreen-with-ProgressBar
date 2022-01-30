@@ -2,7 +2,7 @@
 create splash screen Activity with progressbar at the start of program
 
 ### pay attention !!
-  This tutorial does not include splash screen design
+  This tutorial does not include splash screen design (xml code)
   
   ## java class splash screen activity sourse code as follows:
   ```java
