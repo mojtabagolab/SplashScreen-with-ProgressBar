@@ -1,6 +1,13 @@
 # SplashScreen-with-ProgressBar
 create splash screen Activity with progressbar at the start of program
 
+
+## the final image of the program performance is as follows:
+<img src="https://bayanbox.ir/view/567845713627656600/bandicam-2021-10-29-17-35-09-233.gif" />
+
+
+
+
 ### pay attention !!
   This tutorial does not include splash screen design (xml code)
   
@@ -64,25 +71,3 @@ public class SplashActivity extends AppCompatActivity {
     }
 }
 ```
-
-## the final image of the program performance is as follows:  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-<img src="https://bayanbox.ir/view/567845713627656600/bandicam-2021-10-29-17-35-09-233.gif" />
